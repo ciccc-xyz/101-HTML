@@ -27,7 +27,7 @@ If you need the class invite code, contact ivan.m@ciccc.xyz or your teacher dire
 See: https://www.youtube.com/channel/UCgM6ebQlExfLqXmc7y6qv3w
 
 ### Course Material - Week 1 - Day 1
-- https://github.com/ciccc-xyz/101-HTML/blob/main/101_HTML%20Introduction%20%26%20Basics_%20Day%201.pdf
+- Slide Intro: https://github.com/ciccc-xyz/101-HTML/blob/main/101_HTML%20Introduction%20%26%20Basics_%20Day%201.pdf
 - Notes: https://www.youtube.com/watch?v=xVNFkca4-a4&list=PLqrXdcrBwWBrIOQV1hBHG3sFvdG8sEU6P
 - Part A: https://youtu.be/GvI84yR4tbw
 - Part B: https://youtu.be/zwQIItU3nxQ
