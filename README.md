@@ -21,6 +21,8 @@ Please note, that exported PDF's may have issues, may not be latest version or m
 It is best to follow along with the Google Classroom Lectures and use this material as supporting Material. 
 Over time, we will try and keep this up to date - but we encourage users that when they see issues, to make a pull request and correct them. Collaberate. If you see a problem fix it. 
 
+If you need the class invite code, contact ivan.m@ciccc.xyz or your teacher directly. 
+
 ### Course Material - Week 1 - Day 1
 - https://github.com/ciccc-xyz/101-HTML/blob/main/101_HTML%20Introduction%20%26%20Basics_%20Day%201.pdf
 
